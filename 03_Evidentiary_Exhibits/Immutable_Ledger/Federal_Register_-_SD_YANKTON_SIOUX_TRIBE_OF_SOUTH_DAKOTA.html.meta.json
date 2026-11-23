@@ -1,0 +1,17 @@
+{
+  "url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=SD+YANKTON+SIOUX+TRIBE+OF+SOUTH+DAKOTA",
+  "final_url": "https://www.federalregister.gov/documents/search?conditions%5Bsearch_type_id%5D=3&conditions%5Bterm%5D=SD+YANKTON+SIOUX+TRIBE+OF+SOUTH+DAKOTA",
+  "title": "Federal Register - SD YANKTON SIOUX TRIBE OF SOUTH DAKOTA",
+  "fetched_at": "2026-11-23T17:40:41.268280Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 260468,
+  "sha256": "87da93637298879ea548b085fe8264cd59a4f495eb50b7a88a7399101e83dafa",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication.",
+  "substantive": true,
+  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW"
+}
